@@ -35,5 +35,5 @@ The following changes were made to V2:
 ### V4
 [pictures]
 
-The following changes were made to V4:
+The following changes were made to V3:
 * The continuous tube's thickness was increased to 3mm (while still maintaining a 25mm internal diameter) and a volume of 40mL based on NIOSH CO2 testing requirements. 
