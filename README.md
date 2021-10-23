@@ -1,6 +1,6 @@
 # Phantom Head
 
-This phantom head was created for use in NIOSH-compliant respiratory mask testing. 
+This phantom head was created for use in NIOSH-compliant respiratory mask testing. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository.
 
 ## Development
 We used publically available [ISO digital headforms](https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html) (specifically the medium size)—which were developed from anthropomteric data collected by NIOSH—as our base. The head itself was printed at 90% scale, with the remaining 10% filled with silicone to simulate a layer of human flesh and to provide a seal for each mask tested. The head went through four design iterations, as detailed below, before reaching the final design used in testing. Meshmixer was used for the entire process.
