@@ -30,7 +30,7 @@ The following changes were made to V2:
 * Both the front and back tubes were given an inner diameter of 25mm, with a 2mm thickness (i.e. one continuous tube).
 * The front tube was brought forward by roughly 1cm to make it easier to cut away any excess silicone after molding, allowing tubing to be attached to the front of the head. (Note that in our V2 silicone mold test, the silicone has completely covered the front tube in the mouth area.)
 * A diamond shaped plud was also printed to place in the hole in the back to help prevent silicone from seeping in during the pouring process.
-* A hole for pouring the silicone in through was made in the mold prior to printing. As the mold was quite a large one, it was printed in 8 separate pieces to accomodate the printers' size limitations.
+* A hole for pouring the silicone in through was made in the mold prior to printing. As the mold was quite a large one, it was printed in 8 separate pieces to accomodate the printers' size limitations. Similarly, the head was printed in 2 separate pieces.
 
 ### V4
 [pictures]
