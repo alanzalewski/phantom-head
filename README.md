@@ -30,10 +30,11 @@ The following changes were made to V2:
 * Both the front and back tubes were given an inner diameter of 25mm, with a 2mm thickness (i.e. one continuous tube).
 * The front tube was brought forward by roughly 1cm to make it easier to cut away any excess silicone after molding, allowing tubing to be attached to the front of the head. (Note that in our V2 silicone mold test, the silicone has completely covered the front tube in the mouth area.)
 * A diamond shaped plud was also printed to place in the hole in the back to help prevent silicone from seeping in during the pouring process.
-* A hole for pouring the silicone in through was made in the mold prior to printing. As the mold was quite a large one, it was printed in 8 separate pieces to accomodate the printers' size limitations. Similarly, the head was printed in 2 separate pieces.
+* A hole for pouring the silicone in through was made in the mold prior to printing. As the mold was quite a large one, it was printed in 8 separate pieces to accomodate the 3D printers' size limitations. Similarly, the head was printed in 2 separate pieces.
 
 ### V4
 [pictures]
 
 The following changes were made to V3:
 * The continuous tube's thickness was increased to 3mm (while still maintaining a 25mm internal diameter) and a volume of 40mL based on NIOSH CO2 testing requirements. 
+* The mold was left unchanged from V3, but the head was separated into and printed in 3 separate pieces, both due to printer size limitations and to maintain the structural integrity of the tube (i.e. by allowing the tube to print vertically, eliminating the need for supports there).
