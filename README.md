@@ -38,3 +38,4 @@ The following changes were made to V2:
 The following changes were made to V3:
 * The continuous tube's thickness was increased to 3mm (while still maintaining a 25mm internal diameter) and a volume of 40mL based on NIOSH CO2 testing requirements. 
 * The mold was left unchanged from V3, but the head was separated into and printed in 3 separate pieces, both due to printer size limitations and to maintain the structural integrity of the tube (i.e. by allowing the tube to print vertically, eliminating the need for supports there).
+* The head ended up being too front-heavy to stand on its own, so a stand was printed in 2 pieces to provide stability.
