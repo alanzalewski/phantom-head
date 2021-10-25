@@ -2,6 +2,12 @@
 
 This phantom head was created for use in NIOSH-compliant respiratory mask testing. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository.
 
+## Assembly Instructions
+1. Print the head (at 100% scale, the design has already been scaled down accordingly), and assemble together using superglue.
+2. Print the mold and assemble the two halves together using superglue.
+3. Secure the head inside the mold using nails around the sides, back, and bottom of the head so as to avoid damaging the face.
+4. Close the mold and pour in Smooth-On's Ecoflex 00-30 silicone to fill the remaining space, and wait for it to cure.
+
 ## Development
 We used publically available [ISO digital headforms](https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html) (specifically the medium size)—which were developed from anthropomteric data collected by NIOSH—as our base. The head itself was printed at 90% scale, with the remaining 10% filled with silicone to simulate a layer of human flesh and to provide a seal for each mask tested. The head went through four design iterations, as detailed below, before reaching the final design used in testing. Meshmixer was used to create all the CAD files, and the head was cast with Smooth-On's Ecoflex 00-30 silicone.
 
