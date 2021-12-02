@@ -3,9 +3,9 @@
 This phantom head was created for use in NIOSH-compliant respiratory mask testing. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository.
 
 ## Assembly Instructions
-1. Print the head (at 100% scale, the design has already been scaled down accordingly), and assemble together using superglue.
-2. Print the mold and assemble each of the two halves using superglue.
-3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face.
+1. Print the head component files (at 100% scale), and assemble together using superglue.
+2. Print the mold files and assemble both of the two halves using superglue.
+3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place.
 4. Clamp the two halves of the mold shut, filling any gaps with clay. 
 5. Prepare the silicone (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness) by mixing parts A and B together in an equal ratio (1A:1B) and degassing it in a vacuum degassing chamber. Once ready, pour it into the mold through the hole printed into the top. Wait for the silicone to cure.
 6. Once cured, pry the mold open. (This may take some work depending on the degree to which the silicone seeped into the cracks. You got this, champ.)
