@@ -2,7 +2,16 @@
 
 This phantom head was created for use in NIOSH-compliant respiratory mask testing. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository.
 
-## Assembly Instructions
+### Materials & Equipment Needed
+* 3D printing plastic filament (PLA, PETG)
+* silicone rubber (Smooth-On's Ecoflex 00-30 silicone)
+* super glue
+* clay
+* screws (specifics?)
+* 3D printer
+* degassing chamber
+
+### Assembly Instructions
 1. Print the head component files (at 100% scale), and assemble together using superglue.
 2. Print the mold files and assemble both of the two halves using superglue.
 3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place.
@@ -11,10 +20,10 @@ This phantom head was created for use in NIOSH-compliant respiratory mask testin
 6. Once cured, pry the mold open. (This may take some work depending on the degree to which the silicone seeped into the cracks. You got this, champ.)
 7. Trim any excess silicone off. Ridges can also be smoothed out with a heat gun and gaps filled by pouring more silicone into them.
 
-## Development
+### Development
 We used publically available [ISO digital headforms](https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html) (specifically the medium size)—which were developed from anthropomteric data collected by NIOSH—as our base. The head itself was printed at 90% scale, with the remaining 10% filled with silicone to simulate a layer of human flesh and to provide a seal for each mask tested. The head went through four design iterations, as detailed below, before reaching the final design used in testing. Meshmixer was used to create all the CAD files, and the head was cast with Smooth-On's Ecoflex 00-30 silicone.
 
-### V1
+#### V1
 <p align="left"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V1/V1_1.png" width="200" alt="3/4 view of V1 phantom head"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V1/V1_2.png" width="155" alt="side view of V1 phantom head"> 
@@ -23,7 +32,7 @@ We used publically available [ISO digital headforms](https://www.cdc.gov/niosh/n
 
 The initial version of the head included a tube that ran from the mouth out through the back of the head, exiting into a hollowed out portion that would provide users with the necessary room to adjust respiratory tubing. The front part of the tube was only 2mm thick, and extended out quite far (in line with the tip of the nose), which was likely to be too flimsy once actually printed.
 
-### V2
+#### V2
 <p align="left"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V2/V2_1.png" width="200" alt="3/4 view of V2 phantom head"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V2/V2_2.png" width="178" alt="side view of V2 phantom head"> 
@@ -42,7 +51,7 @@ This version of the head was printed at 40% scale, along with a negative mold at
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V2/V2_test.png" width="300" alt="side view of the silicone covered V2 head sitting in half its mold"> 
 </p>
 
-### V3
+#### V3
 <p align="left"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V3/V3_1.png" width="200" alt="3/4 view of the printed V3 phantom head"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V3/V3_mold1.png" width="215" alt="the updated mold, with the V2 test head sitting inside"> 
@@ -55,7 +64,7 @@ The following changes were made to V2:
 * A diamond shaped plud was also printed to place in the hole in the back to help prevent silicone from seeping in during the pouring process.
 * A hole for pouring the silicone in through was made in the mold prior to printing. As the mold was quite a large one, it was printed in 8 separate pieces to accomodate the 3D printers' size limitations. Similarly, the head was printed in 2 separate pieces.
 
-### V4
+#### V4
 <p align="left"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V4%20(final)/Images/V4_1.png" width="269" alt="close-up of the back of the V4 head, with tubing"> 
   <img src="https://github.com/alanzalewski/phantom-head/blob/main/V4%20(final)/Images/V4_2.png" width="263" alt="side view of the V4 head"> 
