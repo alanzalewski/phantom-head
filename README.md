@@ -1,24 +1,26 @@
 # Phantom Head
 
-This phantom head was created for use in NIOSH-compliant respiratory mask testing. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository.
+This phantom head was created for use in NIOSH-compliant respiratory mask testing, with the intention of forming a perfect, skin-like seal with the masks/respirators. The [CAD files](https://github.com/alanzalewski/phantom-head/tree/main/V4%20(final)/CAD%20Files) can be found in the V4 file in this repository. Below are a materials list, assembly instructions, and the development process.
 
 ### Materials & Equipment Needed
-* 3D printing plastic filament (PLA, PETG)
-* silicone rubber (Smooth-On's Ecoflex 00-30 silicone)
+* 3D printing plastic filament (PLA, PETG, etc)
+* silicone rubber (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness)
 * super glue
 * clay
-* screws (specifics?)
+* M4 screws
 * 3D printer
 * degassing chamber
 
 ### Assembly Instructions
-1. Print the head component files (at 100% scale), and assemble together using superglue.
-2. Print the mold files and assemble both of the two halves using superglue.
-3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place.
-4. Clamp the two halves of the mold shut, filling any gaps with clay. 
-5. Prepare the silicone (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness) by mixing parts A and B together in an equal ratio (1A:1B) and degassing it in a vacuum degassing chamber. Once ready, pour it into the mold through the hole printed into the top. Wait for the silicone to cure.
+1. Print the head files (at 100% scale), and assemble together using superglue, clamping the components tightly together while the glue dries..
+2. Print the mold files and assemble both of the two halves using superglue, as with the head components.
+3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place, which would prevent silicone from fully covering it.
+4. Clamp the two halves of the mold shut. Filling any external gaps, such as between the mold halves or around the screws, with clay. 
+5. Prepare the silicone (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness) by mixing parts A and B together in an equal ratio (1A:1B) and degassing it in a vacuum degassing chamber. Once ready, pour it into the mold through the hole printed into the top. Wait several hours (roughly 6 should be adequate) for the silicone to cure.
 6. Once cured, pry the mold open. (This may take some work depending on the degree to which the silicone seeped into the cracks. You got this, champ.)
 7. Trim any excess silicone off. Ridges can also be smoothed out with a heat gun and gaps filled by pouring more silicone into them.
+
+---
 
 ### Development
 We used publically available [ISO digital headforms](https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html) (specifically the medium size)—which were developed from anthropomteric data collected by NIOSH—as our base. The head itself was printed at 90% scale, with the remaining 10% filled with silicone to simulate a layer of human flesh and to provide a seal for each mask tested. The head went through four design iterations, as detailed below, before reaching the final design used in testing. Meshmixer was used to create all the CAD files, and the head was cast with Smooth-On's Ecoflex 00-30 silicone.
