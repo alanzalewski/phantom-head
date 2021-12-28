@@ -4,7 +4,7 @@ This phantom head was created for use in NIOSH-compliant respiratory mask testin
 
 ### Materials & Equipment Needed
 * 3D printing plastic filament (PLA, PETG, etc)
-* silicone rubber (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness)
+* silicone rubber (Smooth-On's Ecoflex 00-20 silicone, or another silicone of similar hardness)
 * super glue
 * clay
 * M4 screws
@@ -16,7 +16,7 @@ This phantom head was created for use in NIOSH-compliant respiratory mask testin
 2. Print the mold files and assemble both of the two halves using superglue, as with the head components.
 3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place, which would prevent silicone from fully covering it.
 4. Clamp the two halves of the mold shut. Filling any external gaps, such as between the mold halves or around the screws, with clay. 
-5. Prepare the silicone (Smooth-On's Ecoflex 00-30 silicone, or another silicone of similar hardness) by mixing parts A and B together in an equal ratio (1A:1B) and degassing it in a vacuum degassing chamber. Once ready, pour it into the mold through the hole printed into the top. Wait several hours (roughly 6 should be adequate) for the silicone to cure.
+5. Prepare the silicone (Smooth-On's Ecoflex 00-20 silicone, or another silicone of similar hardness) by mixing parts A and B together in an equal ratio (1A:1B) and degassing it in a vacuum degassing chamber. Once ready, pour it into the mold through the hole printed into the top. Wait several hours (roughly 6 should be adequate) for the silicone to cure.
 6. Once cured, pry the mold open. (This may take some work depending on the degree to which the silicone seeped into the cracks. You got this, champ.)
 7. Trim any excess silicone off. Ridges can also be smoothed out with a heat gun and gaps filled by pouring more silicone into them.
 
