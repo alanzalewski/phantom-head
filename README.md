@@ -12,7 +12,7 @@ This phantom head was created for use in NIOSH-compliant respiratory mask testin
 * degassing chamber
 
 ### Assembly Instructions
-1. Print the head files (at 100% scale), and assemble together using superglue, clamping the components tightly together while the glue dries..
+1. Print the head files (at 100% scale), and assemble together using superglue, clamping the components tightly together while the glue dries.
 2. Print the mold files and assemble both of the two halves using superglue, as with the head components.
 3. Screw the head into the mold through the holes around the sides, back, and bottom of the head so as to avoid damaging the face. Ensure the head is not touching the inside of the mold in any place, which would prevent silicone from fully covering it.
 4. Clamp the two halves of the mold shut. Filling any external gaps, such as between the mold halves or around the screws, with clay. 
